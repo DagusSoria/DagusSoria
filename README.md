@@ -4,7 +4,7 @@
 - 👀 I’m a "game designer student" at university @IES21 (https://www.ies21.edu.ar). 
 - 🌱 I’m currently learning Unreal Engine, Blender && English. And making some little experiments on them (They will be released in due course 🎁)
 - 💞️ I’m looking to collaborate on game projects, no matter what position, role or pay, to adquire some quality experience in this industry.
-- 📫 You can reach me sending me a DM on my linkedin, in english or español. 😅 (https://www.linkedin.com/in/agustin-soria-13b060156/) it's a bit unactualized 👀.
+- 📫 You can reach me sending me a DM on my linkedin, in english or español. 😅 (https://www.linkedin.com/in/agustin-soria-13b060156/ - it's a bit unactualized 👀) or my personal Instagram (@agus_soria17 - and follow me btw 😉).
 
 <!---
 DagusSoria/DagusSoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
