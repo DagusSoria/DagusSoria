@@ -15,6 +15,8 @@
 - 💞️ Estoy buscando proyectos de backend para colaborar como desarrollador freelance.
 - 📫 Podés contactarme mandandome un DM a mi linkedin, en español o english. 😅 (https://www.linkedin.com/in/agustín-soria-860654160/ - está un poquito desactualizado, estoy trabajando en ello 👀) o en mi Instagram personal (@agus_soria17 - Y seguime, ya que estamos 😉).
 
+- Currently I only have this proyect running https://simulacion-binance-p2p.web.app/
+
 <!---
 DagusSoria/DagusSoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
